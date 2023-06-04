@@ -13,8 +13,9 @@
   --a-color: #173465;
   --light-color: #fff;
 }
-html {
+body {
   background-color: #e6e2ed;
+  height: 100vh;
 }
 .slide {
   width: 190px;
