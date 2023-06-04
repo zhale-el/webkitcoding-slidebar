@@ -9,9 +9,12 @@
   list-style: none;
 }
 :root {
-  --primary-color: #8a1bf2;
+  --primary-color: #9031e8;
   --a-color: #173465;
   --light-color: #fff;
+}
+html {
+  background-color: #e6e2ed;
 }
 .slide {
   width: 190px;
